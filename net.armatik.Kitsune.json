@@ -23,8 +23,8 @@
                 {
                     "type": "git",
                     "url": "https://altlinux.space/alt-gnome/Kitsune.git",
-                    "tag": "0.8.3",
-                    "commit": "4f93b86fc067ad3c5df05cdc6fdf43393ccb3ce4"
+                    "tag": "0.8.4",
+                    "commit": "6f25d54a45f7bf3099ff291a69d88096b6198780"
                 }
             ]
         }
